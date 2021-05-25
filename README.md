@@ -9,7 +9,7 @@ Metrics for evaluating the model
 ### midi-visualization-master
 Midi files
 ### Tracks
-Tracs, base on our electric guitar recordings
+Tracks, base on our electric guitar recordings
 ### GUITAR TABLATURE ESTIMATION
 This PDF file is the report of our project
 
